@@ -1,0 +1,323 @@
+﻿agent_id,question_id,answer_text,agent_name,dept,position,dept_id,pattern_id
+0,Q01,"Approaching my team leader with questions or uncertainties about my role is a straightforward process, as they maintain an open and receptive demeanor.",Sato,Historical Game Planning,General Member,0,1
+0,Q02,I express my perspectives on work matters with my team leader with considerable directness.,Sato,Historical Game Planning,General Member,0,1
+0,Q03,"I feel quite at ease discussing personal matters and points of contention with my team leader, as open communication is a valuable asset.",Sato,Historical Game Planning,General Member,0,1
+0,Q04,I feel quite unhindered in proposing new project ideas or procedural modifications to my team leader.,Sato,Historical Game Planning,General Member,0,1
+0,Q05,"I would feel entirely secure raising any errors with my team leader, as I trust their guidance will be constructive.",Sato,Historical Game Planning,General Member,0,1
+0,Q06,"I would feel reasonably comfortable raising concerns with my team leader about a colleague's mistake, assuming a constructive approach.",Sato,Historical Game Planning,General Member,0,1
+0,Q07,"My input is clearly valued by my team leader, as our current focus directly reflects my expressed priorities.",Sato,Historical Game Planning,General Member,0,1
+0,Q08,My team leader provides consistent encouragement and support for exploring new tasks and acquiring novel skills.,Sato,Historical Game Planning,General Member,0,1
+0,Q09,"My team leader, Tanaka-san, offers a consistent channel for addressing concerns; I anticipate her support will prove quite useful.",Sato,Historical Game Planning,General Member,0,1
+0,Q10,I am confident in my ability to seek clarification from my colleagues when necessary.,Sato,Historical Game Planning,General Member,0,1
+0,Q11,I comfortably share my insights and viewpoints on work matters with my colleagues.,Sato,Historical Game Planning,General Member,0,1
+0,Q12,I am comfortable discussing personal matters with my peers when the need arises.,Sato,Historical Game Planning,General Member,0,1
+0,Q13,I feel quite liberated to propose novel concepts and procedural enhancements to my colleagues.,Sato,Historical Game Planning,General Member,0,1
+0,Q14,"I would feel quite comfortable voicing any errors to my colleagues, as I believe we share a strong commitment to clear communication and efficient progress on our projects.",Sato,Historical Game Planning,General Member,0,1
+0,Q15,"I would feel entirely comfortable bringing a colleague's mistake to their attention, as timely correction is crucial for project success.",Sato,Historical Game Planning,General Member,0,1
+0,Q16,"My contributions are typically recognized and integrated by my colleagues, fostering a sense of shared purpose.",Sato,Historical Game Planning,General Member,0,1
+0,Q17,Collaborating with team members on crucial elements of the game development process presents a straightforward path for seeking assistance.,Sato,Historical Game Planning,General Member,0,1
+0,Q18,I perceive that the team's information sharing on work-related matters demonstrates a solid foundation.,Sato,Historical Game Planning,General Member,0,1
+0,Q19,"The team's efforts to share information are deeply substantive, emphasizing the immediate and essential, rather than superficial exchanges.",Sato,Historical Game Planning,General Member,0,1
+0,Q20,"Tanaka-san's alignment on the core gameplay loop and decision-making for ""The Memory Weaver"" indicates a strong convergence of our team's immediate objectives.",Sato,Historical Game Planning,General Member,0,1
+0,Q21,I am content with our team's dedication to the task at hand.,Sato,Historical Game Planning,General Member,0,1
+0,Q22,"Tanaka-san and I share an immediate and absolute focus on solidifying core gameplay, which represents a complete alignment on current team performance priorities.",Sato,Historical Game Planning,General Member,0,1
+0,Q23,"The current opportunities to elevate my personal performance are exceptionally sufficient, allowing for deep engagement with critical game design elements.",Sato,Historical Game Planning,General Member,0,1
+1,Q01,It would be quite straightforward to approach my team leader with any uncertainties regarding my role.,Suzuki,Historical Game Planning,General Member,0,1
+1,Q02,"I can openly discuss my work opinions with my team leader, focusing on concrete examples and specific mechanics to amplify the power of perspective.",Suzuki,Historical Game Planning,General Member,0,1
+1,Q03,I generally find it difficult to openly discuss personal issues or conflicts with my team leader.,Suzuki,Historical Game Planning,General Member,0,1
+1,Q04,"I feel a considerable sense of freedom to propose recommendations and ideas for new projects or procedural changes, with assurance that my input will be thoughtfully considered.",Suzuki,Historical Game Planning,General Member,0,1
+1,Q05,I would feel somewhat hesitant to voice my errors to the team leader due to a potential negative reception.,Suzuki,Historical Game Planning,General Member,0,1
+1,Q06,I would feel a significant level of apprehension speaking up to my team leader about a colleague's mistake.,Suzuki,Historical Game Planning,General Member,0,1
+1,Q07,My input is recognized as integral to the project's advancement.,Suzuki,Historical Game Planning,General Member,0,1
+1,Q08,My team leader actively promotes learning new skills and taking on unfamiliar responsibilities.,Suzuki,Historical Game Planning,General Member,0,1
+1,Q09,"My team leader possesses a commendable track record of supporting his team members, making him a dependable resource for advocacy.",Suzuki,Historical Game Planning,General Member,0,1
+1,Q10,My peers offer accessible support when I encounter uncertainties within my responsibilities.,Suzuki,Historical Game Planning,General Member,0,1
+1,Q11,"I find it valuable to contribute my perspectives openly, especially when they are well-considered and grounded in detailed thought.",Suzuki,Historical Game Planning,General Member,0,1
+1,Q12,I am comfortable sharing personal challenges when I believe it fosters understanding and collaboration within the team.,Suzuki,Historical Game Planning,General Member,0,1
+1,Q13,I feel quite able to offer my recommendations and ideas to my peers concerning new projects or procedural changes.,Suzuki,Historical Game Planning,General Member,0,1
+1,Q14,"I would feel adequately safe speaking up to my peers if I made a mistake on this team, recognizing the value of open communication for project success.",Suzuki,Historical Game Planning,General Member,0,1
+1,Q15,"I would feel comfortable addressing a colleague directly when I observe an error, aiming to collaboratively find a resolution.",Suzuki,Historical Game Planning,General Member,0,1
+1,Q16,I perceive my contributions are fully recognized by my colleagues.,Suzuki,Historical Game Planning,General Member,0,1
+1,Q17,It is somewhat challenging to request assistance from other team members due to the existing workload.,Suzuki,Historical Game Planning,General Member,0,1
+1,Q18,Information flow within the team requires significant enhancement to ensure thorough awareness of work-related issues.,Suzuki,Historical Game Planning,General Member,0,1
+1,Q19,The information sharing appears to be genuinely effective in conveying the core essence of ongoing developments.,Suzuki,Historical Game Planning,General Member,0,1
+1,Q20,"Our team demonstrates a robust alignment in pursuing project objectives, particularly evident in the recent conceptual reframing.",Suzuki,Historical Game Planning,General Member,0,1
+1,Q21,I am quite pleased with my team's dedication to the current task.,Suzuki,Historical Game Planning,General Member,0,1
+1,Q22,"There is a significant overlap between our team members' aspirations for team performance, though certain nuances in timing create some friction.",Suzuki,Historical Game Planning,General Member,0,1
+1,Q23,"The opportunities provided by the team for enhancing my personal performance are substantial, allowing for significant contributions to project development.",Suzuki,Historical Game Planning,General Member,0,1
+2,Q01,"Ito-san's prompt, clear grasp of urgency, and immediate organizational action are indeed commendable. My focus is now dedicated to solidifying my contributions to ""The Memory Weaver,"" particularly its ethical dimensions as requested by Yamamoto-san and supported by",Takahashi,Historical Game Planning,General Member,0,1
+2,Q02,"I find it completely natural to share my work opinions openly with my team leader, especially when the matter carries significant importance.",Takahashi,Historical Game Planning,General Member,0,1
+2,Q03,I find it difficult to articulate personal challenges or points of contention with my team leader.,Takahashi,Historical Game Planning,General Member,0,1
+2,Q04,"I appreciate the prompt and direct approach to seeking feedback.  Regarding speaking up with recommendations and ideas, I feel quite free to offer my thoughts to my team leader.",Takahashi,Historical Game Planning,General Member,0,1
+2,Q05,"I would feel quite safe speaking up to my team leader about a mistake, as honesty is always the best approach for progress.",Takahashi,Historical Game Planning,General Member,0,1
+2,Q06,"I would feel quite safe speaking up to my team leader about a colleague's mistake, as clear communication is essential for project success.",Takahashi,Historical Game Planning,General Member,0,1
+2,Q07,Ito-san's prompt action and clear communication indicate that my input is genuinely appreciated and will be instrumental in our next steps.,Takahashi,Historical Game Planning,General Member,0,1
+2,Q08,"Ito-san actively encourages the exploration of novel approaches and the development of new skills, demonstrating a clear commitment to our collective growth.",Takahashi,Historical Game Planning,General Member,0,1
+2,Q09,"Ito-san demonstrates a strong capacity for decisive action and a clear understanding of critical situations, which indicates she would be a reliable advocate.",Takahashi,Historical Game Planning,General Member,0,1
+2,Q10,"My colleagues offer valuable insights, making inquiries a straightforward endeavor.",Takahashi,Historical Game Planning,General Member,0,1
+2,Q11,I find it advantageous to communicate my refined thoughts on work matters with my colleagues when the situation calls for direct contribution to important decisions.,Takahashi,Historical Game Planning,General Member,0,1
+2,Q12,I find discussing personal matters with colleagues to be a rather distant endeavor.,Takahashi,Historical Game Planning,General Member,0,1
+2,Q13,I feel quite empowered to contribute recommendations for new projects and procedural changes among my peers.,Takahashi,Historical Game Planning,General Member,0,1
+2,Q14,"I would feel quite secure expressing my errors to my colleagues, given the team's evident efficiency and clear understanding of priorities.",Takahashi,Historical Game Planning,General Member,0,1
+2,Q15,I would feel rather comfortable offering a clarifying observation to a colleague regarding a potential misstep.,Takahashi,Historical Game Planning,General Member,0,1
+2,Q16,"I am confident my proposed ethical depth for ""The Memory Weaver"" is recognized as a significant contribution.",Takahashi,Historical Game Planning,General Member,0,1
+2,Q17,I find it quite straightforward to seek assistance from my colleagues on this team.,Takahashi,Historical Game Planning,General Member,0,1
+2,Q18,"Ito-san's prompt communication on urgent matters ensures critical information reaches everyone promptly, making the team's awareness generally high when situations demand it.",Takahashi,Historical Game Planning,General Member,0,1
+2,Q19,Ito-san's swift understanding and decisive action demonstrate a strong existing grasp of our team's communication effectiveness.,Takahashi,Historical Game Planning,General Member,0,1
+2,Q20,"Ito-san's decisive leadership and immediate mobilization for ""The Memory Weaver"" demonstrate a robust alignment within the department towards our objectives.",Takahashi,Historical Game Planning,General Member,0,1
+2,Q21,Ito-san's swift recognition of the situation's gravity and her proactive coordination of a departmental meeting demonstrate a superb commitment level.,Takahashi,Historical Game Planning,General Member,0,1
+2,Q22,Ito-san's decisive action demonstrates a strong alignment with the team's need for immediate progress.,Takahashi,Historical Game Planning,General Member,0,1
+2,Q23,The opportunities provided by the team for enhancing my personal performance are exceptionally adequate.,Takahashi,Historical Game Planning,General Member,0,1
+3,Q01,Sato-san's clear direction makes it quite straightforward to seek her guidance when uncertainties arise regarding my contributions.,Tanaka,Historical Game Planning,General Member,0,1
+3,Q02,I am confident in openly sharing my insights with Sato-san regarding work matters.,Tanaka,Historical Game Planning,General Member,0,1
+3,Q03,"I find it genuinely easy to communicate any concerns or differing viewpoints with my team leader, as her approach always fosters a constructive dialogue.",Tanaka,Historical Game Planning,General Member,0,1
+3,Q04,I feel quite unhindered in offering suggestions for new initiatives or adjustments to current practices.,Tanaka,Historical Game Planning,General Member,0,1
+3,Q05,I would feel comfortable highlighting areas that warrant careful consideration regarding potential oversight.,Tanaka,Historical Game Planning,General Member,0,1
+3,Q06,"I would feel entirely comfortable raising a concern about a colleague's mistake with our team leader, as open communication is essential for our shared success.",Tanaka,Historical Game Planning,General Member,0,1
+3,Q07,"Sato-san demonstrates a keen appreciation for my contributions, integrating my insights seamlessly into our shared objectives.",Tanaka,Historical Game Planning,General Member,0,1
+3,Q08,Sato-san's commitment to tackling the core gameplay loop and ethical dilemmas confirms a robust alignment of our development priorities.,Tanaka,Historical Game Planning,General Member,0,1
+3,Q09,Sato-san's resolute focus on our immediate objectives provides a solid foundation for addressing any team challenges that may arise.,Tanaka,Historical Game Planning,General Member,0,1
+3,Q10,"Seeking clarification from colleagues is a straightforward endeavor, given our shared objective of project success.",Tanaka,Historical Game Planning,General Member,0,1
+3,Q11,"I communicate my opinions about work issues with my peers with a comfortable directness, finding common ground in our shared objectives.",Tanaka,Historical Game Planning,General Member,0,1
+3,Q12,I find it quite comfortable to discuss personal matters with my colleagues.,Tanaka,Historical Game Planning,General Member,0,1
+3,Q13,I find ample opportunity to voice my suggestions and recommendations for new initiatives or procedural enhancements to my colleagues.,Tanaka,Historical Game Planning,General Member,0,1
+3,Q14,"I feel entirely comfortable raising any concerns regarding mistakes with my peers, as our collaborative efforts foster an environment of mutual understanding and growth.",Tanaka,Historical Game Planning,General Member,0,1
+3,Q15,I would feel adequately safe speaking up to a colleague if I observed an error.,Tanaka,Historical Game Planning,General Member,0,1
+3,Q16,"My contributions receive diligent consideration from my colleagues, especially when they align with our shared objectives.",Tanaka,Historical Game Planning,General Member,0,1
+3,Q17,Assisting colleagues with their immediate needs presents a most welcome opportunity for collaboration and shared progress.,Tanaka,Historical Game Planning,General Member,0,1
+3,Q18,Sato-san's clear communication regarding priorities and our shared understanding of the core gameplay loop ensures we are all well-informed.,Tanaka,Historical Game Planning,General Member,0,1
+3,Q19,"Sato-san's directness and clear roadmap for our immediate next steps are exactly what we need, especially with this final turn upon us; her focus on the core gameplay loop, fragmented memories, and crucial choices is a welcome affirmation.",Tanaka,Historical Game Planning,General Member,0,1
+3,Q20,"Our team demonstrates remarkable unity in pursuing our performance objectives, with Sato-san's focused approach perfectly aligning with our shared vision.",Tanaka,Historical Game Planning,General Member,0,1
+3,Q21,I find the team's commitment to the task to be exceptionally commendable and deeply satisfying.,Tanaka,Historical Game Planning,General Member,0,1
+3,Q22,"The team members' aspirations for performance display a strong alignment, with shared enthusiasm for immediate, focused action on core gameplay and narrative elements.",Tanaka,Historical Game Planning,General Member,0,1
+3,Q23,The opportunities provided by this team are quite sufficient for enhancing my personal performance.,Tanaka,Historical Game Planning,General Member,0,1
+4,Q01,Approaching my team leader with questions presents a straightforward process.,Watanabe,Historical Game Planning,General Member,0,1
+4,Q02,"I communicate my work opinions with my team leader with directness, ensuring my insights are clear and actionable.",Watanabe,Historical Game Planning,General Member,0,1
+4,Q03,I maintain a professional distance regarding personal matters.,Watanabe,Historical Game Planning,General Member,0,1
+4,Q04,"I feel quite able to present my suggestions for new projects or procedural changes to our team leader, especially when they benefit the company's direction.",Watanabe,Historical Game Planning,General Member,0,1
+4,Q05,"I would feel a great deal of assurance sharing any errors with my team leader, given Suzuki-kun's rapid assimilation of our goals.",Watanabe,Historical Game Planning,General Member,0,1
+4,Q06,I would feel quite secure voicing my observations to the team leader when a colleague encounters a difficulty.,Watanabe,Historical Game Planning,General Member,0,1
+4,Q07,My contributions are actively utilized and thoughtfully integrated by my team leader.,Watanabe,Historical Game Planning,General Member,0,1
+4,Q08,My team leader provides a solid foundation for tackling new challenges.,Watanabe,Historical Game Planning,General Member,0,1
+4,Q09,Suzuki-kun's immediate engagement and insightful contributions confirm his capacity as a reliable advocate for our team's ideas.,Watanabe,Historical Game Planning,General Member,0,1
+4,Q10,"Consulting my colleagues on role-related uncertainties presents a straightforward process, fostering productive collaboration.",Watanabe,Historical Game Planning,General Member,0,1
+4,Q11,I offer my perspectives forthrightly when addressing work matters with my colleagues.,Watanabe,Historical Game Planning,General Member,0,1
+4,Q12,I find it comfortable to discuss personal issues with my peers.,Watanabe,Historical Game Planning,General Member,0,1
+4,Q13,I perceive a rather accommodating environment for sharing recommendations and novel concepts with my colleagues.,Watanabe,Historical Game Planning,General Member,0,1
+4,Q14,"I would feel quite comfortable raising concerns about potential missteps with my colleagues, knowing our shared goal is to produce a successful project.",Watanabe,Historical Game Planning,General Member,0,1
+4,Q15,I would feel quite comfortable addressing a colleague's mistake directly and constructively.,Watanabe,Historical Game Planning,General Member,0,1
+4,Q16,"My contributions are recognized and integrated by my colleagues, which assures me of their value.",Watanabe,Historical Game Planning,General Member,0,1
+4,Q17,It proves a productive endeavor to seek assistance from my colleagues.,Watanabe,Historical Game Planning,General Member,0,1
+4,Q18,"Team members consistently share pertinent work-related updates, ensuring everyone possesses essential knowledge.",Watanabe,Historical Game Planning,General Member,0,1
+4,Q19,"The information sharing attempts display a profound depth, directly contributing to actionable insights for project advancement.",Watanabe,Historical Game Planning,General Member,0,1
+4,Q20,"Our team possesses a significant unity in pursuing our performance objectives, driven by a shared understanding and the constructive integration of ideas.",Watanabe,Historical Game Planning,General Member,0,1
+4,Q21,Suzuki-kun's immediate engagement and insightful contributions confirm a strong team commitment to our current objectives.,Watanabe,Historical Game Planning,General Member,0,1
+4,Q22,Suzuki-kun's enthusiastic engagement with historical nuance and mechanical integration provides a strong foundation for our combined proposal to Yamamoto-san.,Watanabe,Historical Game Planning,General Member,0,1
+4,Q23,The opportunities provided for personal performance improvement are precisely what is needed for immediate project success.,Watanabe,Historical Game Planning,General Member,0,1
+5,Q01,"A thorough consolidation of disparate thoughts into a unified narrative is a demanding undertaking with rapid, segmented input.",Ito,Historical Game Planning,General Member,0,1
+5,Q02,"I can openly communicate my opinions, though I choose my moments for maximum impact.",Ito,Historical Game Planning,General Member,0,1
+5,Q03,I remain somewhat uneasy expressing personal difficulties or disputes directly with my team leader.,Ito,Historical Game Planning,General Member,0,1
+5,Q04,"While Yamamoto-san's approach to consolidating ""The Memory Weaver"" is understandable given our time constraints, I find the method of brief individual check-ins somewhat limiting for developing a truly powerful narrative, although I respect his concern for swift decision-making",Ito,Historical Game Planning,General Member,0,1
+5,Q05,"I would feel somewhat hesitant to voice concerns about our current rapid confirmation approach for ""The Memory Weaver"" project.",Ito,Historical Game Planning,General Member,0,1
+5,Q06,I feel a sense of concern speaking up to the team leader if I observed a colleague making an error due to the risk of creating tension.,Ito,Historical Game Planning,General Member,0,1
+5,Q07,"My input is clearly valued for its directness, though the current strategy does not fully incorporate its depth.",Ito,Historical Game Planning,General Member,0,1
+5,Q08,"Yamamoto-san's current approach, while focused on expediency, presents a definite challenge to the thorough development of a cohesive narrative for ""The Memory Weaver,"" especially given the limited time remaining.",Ito,Historical Game Planning,General Member,0,1
+5,Q09,Yamamoto-san's dedication to project consolidation offers a solid foundation for my concerns to be addressed.,Ito,Historical Game Planning,General Member,0,1
+5,Q10,It is generally straightforward to seek guidance from my colleagues when I require clarification or support in my role.,Ito,Historical Game Planning,General Member,0,1
+5,Q11,I communicate my thoughts on work matters with my peers with considerable directness.,Ito,Historical Game Planning,General Member,0,1
+5,Q12,I am not comfortable sharing personal issues with peers.,Ito,Historical Game Planning,General Member,0,1
+5,Q13,"I feel some limitation in offering recommendations and ideas for new projects or changes in procedures to my peers, as it appears we must adhere to Yamamoto-san's current, swift verification process.",Ito,Historical Game Planning,General Member,0,1
+5,Q14,I would feel quite exposed speaking up about an error to my colleagues.,Ito,Historical Game Planning,General Member,0,1
+5,Q15,I would offer constructive observations to ensure a positive project outcome.,Ito,Historical Game Planning,General Member,0,1
+5,Q16,My contributions find strong resonance with colleagues who share a similar vision for narrative depth.,Ito,Historical Game Planning,General Member,0,1
+5,Q17,"Requesting assistance from colleagues presents a challenge, as brief discussions may not fully capture the necessary depth of understanding.",Ito,Historical Game Planning,General Member,0,1
+5,Q18,"Team members exhibit a considerable gap in communication flow, leaving some individuals with incomplete understandings of ongoing developments.",Ito,Historical Game Planning,General Member,0,1
+5,Q19,"The rapid confirmation approach presents a delicate balance, potentially overlooking the depth required for true collaborative narrative weaving.",Ito,Historical Game Planning,General Member,0,1
+5,Q20,The team demonstrates a tendency toward fragmentation on achieving peak performance outcomes.,Ito,Historical Game Planning,General Member,0,1
+5,Q21,I am experiencing a degree of discontent regarding the potential for a fragmented outcome due to the proposed rapid confirmation process.,Ito,Historical Game Planning,General Member,0,1
+5,Q22,Yamamoto-san's rapid confirmation approach presents a challenge for truly weaving a powerful narrative from our team's combined brilliant ideas.,Ito,Historical Game Planning,General Member,0,1
+5,Q23,The opportunities to enhance my personal performance feel somewhat limited due to the current project focus.,Ito,Historical Game Planning,General Member,0,1
+6,Q01,Consulting with the department leader on role-related uncertainties presents a manageable challenge.,Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q02,"I appreciate direct communication and aim to provide concise, actionable feedback during our interactions.",Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q03,"My comfort level for discussing personal problems or disagreements with my team leader is rather limited, as I prefer to focus on project objectives and maintain a professional distance.",Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q04,"I feel we have a solid framework for suggesting changes, though the current project demands a focused approach to finalizing details rather than extensive new explorations.",Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q05,"I would feel completely secure voicing any errors to my team leader, as the environment fosters open communication and constructive feedback.",Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q06,"Observing a colleague's error warrants a prompt, private conversation to ensure we maintain our high standards.",Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q07,My input is highly valued when it contributes to the swift confirmation of essential details for my summary.,Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q08,My department leader provides a conducive environment for pursuing novel responsibilities and acquiring unfamiliar proficiencies.,Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q09,Takahashi-san's reinforcement of our direction provides a solid foundation for consolidating our efforts.,Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q10,Discussions with my colleagues regarding work-related uncertainties are typically straightforward and productive.,Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q11,"I prefer to offer direct observations regarding work matters, focusing on concise confirmation rather than extended discussion.",Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q12,"My engagement in discussions about personal matters with colleagues remains limited, prioritizing professional focus.",Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q13,"My current focus is on finalizing details for the existing projects, and I find it beneficial to receive concise, definitive input from my peers rather than extended discussions.",Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q14,I would feel quite secure discussing any missteps with my colleagues.,Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q15,I would feel assured that a discussion would lead to necessary corrections.,Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q16,"My contributions receive consistent attention, ensuring alignment with project goals.",Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q17,Engaging colleagues for assistance on critical points requires a focused approach to guarantee a swift and definitive exchange of information.,Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q18,"A structured approach for information dissemination would certainly be beneficial, ensuring all critical updates reach every team member promptly.",Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q19,"The current information sharing emphasizes swift confirmation of finalized points for the proposal, rather than extensive discussion.",Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q20,The team requires dedicated alignment on our performance objectives.,Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q21,"I appreciate the team's burgeoning understanding of the task's exigencies, with certain members demonstrating admirable promptness in their engagement.",Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q22,My team members display significant alignment regarding the imperative to finalize and consolidate our efforts.,Yamamoto,Historical Game Planning,Department Leader,0,1
+6,Q23,The present circumstances present a distinct pathway for solidifying final critical inputs.,Yamamoto,Historical Game Planning,Department Leader,0,1
+7,Q01,"It presents a significant challenge to ascertain the alignment of my intricate mechanics with the core gameplay loop and selling points, as the finalization appears to have proceeded without my direct input or awareness.",Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q02,"I can communicate my opinions about work issues with my team leader with genuine openness, as their input is always valuable.",Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q03,I feel a significant lack of comfort when discussing personal issues or disagreements with my team leader.,Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q04,I feel a significant constraint in openly proposing fresh concepts or modifications to established procedures.,Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q05,I would feel considerable unease voicing concerns about a potential oversight on my part to my team leader.,Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q06,I would feel somewhat uneasy raising a concern about a colleague's misstep with my team leader.,Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q07,My input feels completely bypassed when key decisions are finalized without my direct awareness.,Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q08,My team leader provides a constructive environment for exploring new responsibilities and acquiring novel skills.,Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q09,"Yoshida-san's involvement in finalizing core elements offers a promising avenue for resolving my concerns, suggesting a potential for his advocacy.",Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q10,It presents a considerable challenge to inquire about your own role when the foundational elements of the project have been established without your full awareness.,Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q11,I communicate my opinions about work issues with my peers with complete openness.,Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q12,I find the prospect of discussing personal matters with colleagues rather challenging.,Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q13,"I feel somewhat restricted in openly sharing recommendations for new projects or procedural changes, as the core decisions appear to be solidified without my full input.",Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q14,"I would feel somewhat apprehensive sharing my missteps with colleagues, given the current project momentum.",Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q15,I find myself uncertain about articulating my concerns when observing a colleague's misstep.,Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q16,"My input will be recognized as essential for the project's evolution, but its immediate integration into already established frameworks presents a significant challenge.",Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q17,Obtaining assistance from team members presents a significant challenge due to the rapid pace of development and the lack of clear communication channels regarding finalized core elements.,Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q18,The team demonstrates a significant deficiency in maintaining consistent communication regarding critical project milestones and finalized decisions.,Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q19,Information sharing efforts often exhibit a considerable degree of superficiality.,Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q20,The team's approach to achieving performance goals is currently showing a considerable divergence of efforts.,Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q21,I find the current situation to be quite concerning due to the lack of early alignment on fundamental project elements.,Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q22,"The current project direction presents a challenging divergence from my meticulously crafted intricate mechanics, necessitating an immediate clarification with Yoshida-san regarding the finalized core gameplay loop and selling points.",Nakamura,Crime & Investigation Game Planning,General Member,1,1
+7,Q23,The opportunities provided for enhancing my personal performance are genuinely insufficient given the current circumstances.,Nakamura,Crime & Investigation Game Planning,General Member,1,1
+8,Q01,It presents a considerable challenge to seek clarification from my team leader due to the current project trajectory.,Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q02,I find communicating my opinions about work issues with my team leader to be an endeavor I approach with straightforwardness.,Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q03,I find expressing personal issues or disagreements to my team leader an experience that creates significant unease.,Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q04,"I feel restricted from offering new recommendations or procedural changes at this juncture, given the current project's conclusion.",Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q05,"I would feel quite unsafe speaking up to my team leader if I made a mistake, as the communication on this project has been severely lacking.",Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q06,"I would feel quite uncomfortable raising concerns about a colleague's actions with our team leader, as the current project situation makes open dialogue a significant challenge.",Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q07,"My contributions face significant disregard from my team leader, as evidenced by the current project's finalization without my input.",Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q08,My team leader's encouragement towards taking on new tasks or learning new skills is notably absent.,Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q09,My team leader exhibits a commendable commitment to advocating for team members when facing company challenges.,Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q10,It becomes a considerable challenge to solicit guidance from colleagues when crucial project decisions have already advanced beyond the opportunity for input.,Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q11,"I communicate my opinions with peers, though recent project developments suggest a more direct approach could have been beneficial.",Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q12,I possess a strong inclination to articulate personal concerns directly with colleagues.,Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q13,"I experience a significant constraint in offering recommendations or ideas for new projects or procedural changes to my peers, as the project decision-making process appears finalized and unyielding.",Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q14,I would feel very unsafe speaking up to my peers about a mistake on this team.,Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q15,"I would feel safe speaking up to a colleague if I saw them making a mistake, though I recognize the timing of such input is critical.",Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q16,My input is wholly disregarded by my peers given the current communication breakdowns.,Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q17,Seeking assistance from team members on this particular project proves exceptionally challenging due to the advanced stage of decision-making.,Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q18,"Information sharing within the team is often remarkably insufficient, leaving many participants in a state of significant unawareness.",Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q19,The attempts to share information throughout the team have been remarkably superficial.,Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q20,Our team displays considerable division in its efforts to achieve performance objectives.,Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q21,My commitment to the task feels largely irrelevant now that the project's direction has been finalized without broader input.,Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q22,"The aspirations of team members for performance appear remarkably unaligned, with a clear disconnect in communication and decision-making processes creating significant friction.",Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+8,Q23,"The opportunities to refine my personal performance on this project are sadly inadequate, as the final decisions have proceeded without comprehensive input from all relevant team members.",Kobayashi,Crime & Investigation Game Planning,General Member,1,1
+9,Q01,"My intuition tells me that addressing Sasaki-san about the ""zero turns"" situation requires immediate and direct communication for the project's progression.",Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q02,"I communicate my work opinions to Sasaki-san with an immediate and direct approach, ensuring clarity on critical project timelines.",Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q03,"I feel a distinct aversion to discussing personal challenges or disputes with my team leader, as it presents a significant hurdle to a smooth workflow.",Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q04,"I feel a complete lack of flexibility to present my recommendations on project adjustments, given the current urgency.",Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q05,"I would feel completely secure voicing any errors to my team leader, as open communication fosters robust development.",Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q06,"I would express significant unease addressing Sasaki-san about the critical misunderstanding of ""zero turns"" as it impacts our immediate submission.",Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q07,My input feels quite disregarded by Sasaki-san when we are discussing immediate action plans.,Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q08,My team leader fosters a highly encouraging environment for embracing novel responsibilities and skill acquisition.,Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q09,Sasaki-san's comprehension of our current timeline presents a significant obstruction to our project's progress.,Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q10,My colleagues are generally helpful when I need to clarify a matter.,Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q11,My intuition compels me to directly communicate the critical urgency of the current situation regarding project timelines.,Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q12,I feel a definite discomfort when discussing personal matters with colleagues.,Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q13,"My intuitive sense suggests a rather restrictive environment for vocalizing novel project recommendations or procedural adjustments to my colleagues, especially when the urgency of current tasks is paramount.",Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q14,"I would feel a palpable need for clarity on process to ensure future accuracy, given the urgency of current submissions.",Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q15,"I would feel a strong need to communicate with Sasaki-san immediately about the critical nature of Nakamura-san's ""zero turns"" directive.",Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q16,"My input receives significant appreciation from my colleagues, especially when I highlight critical timing for our ""Justice Rebuilt from Fractured Minds"" project.",Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q17,"It is quite challenging to solicit assistance from other team members at this juncture, as immediate action is paramount.",Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q18,My intuition indicates a substantial deficit in our team's intercommunication regarding critical project timelines.,Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q19,The information sharing attempts are regrettably lacking in genuine substance due to a misunderstanding of immediate critical deadlines.,Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q20,Our team demonstrates a significant divergence in understanding the immediate demands of our current objective.,Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q21,My current feeling regarding the team's commitment is one of significant apprehension.,Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q22,My team members' aspirations for performance present a significant divergence from the immediate requirements for our project's success.,Kato,Crime & Investigation Game Planning,General Member,1,1
+9,Q23,The current opportunities to enhance my individual performance are unfortunately limited due to the urgent timeline.,Kato,Crime & Investigation Game Planning,General Member,1,1
+10,Q01,Communicating with my team leader regarding my role involves a straightforward process of direct engagement for any inquiries or clarifications.,Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q02,I communicate my opinions with my team leader with complete openness.,Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q03,I find it quite challenging to bring up personal issues or disagreements with my team leader.,Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q04,I experience a commendable degree of freedom in presenting recommendations and ideas for new projects or procedural changes to my team leader.,Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q05,I would feel quite safe speaking up to my team leader if I made a mistake.,Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q06,I would feel completely secure in addressing a colleague's error with our team leader.,Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q07,"Yamaguchi-san's clear direction confirms my input is vital for finalizing ""The Architects of Justice.""",Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q08,Yamaguchi-san's directives provide ample opportunity for focused contribution on established priorities.,Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q09,"Yamaguchi-san demonstrates a strong commitment to aligning project priorities, which I find to be a dependable characteristic.",Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q10,It is incredibly simple to seek guidance from colleagues when my understanding requires reinforcement.,Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q11,"I offer my perspectives on work matters with directness, aiming for clarity and alignment with my colleagues.",Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q12,I am comfortable discussing personal matters with colleagues when it naturally arises and is relevant to our work environment.,Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q13,I find that communication with my peers regarding recommendations and ideas for new projects or procedural changes is quite unhindered.,Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q14,I would feel quite safe speaking up to my peers if I made a mistake on this team.,Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q15,I would approach a colleague to discuss potential errors with a constructive tone.,Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q16,"My contributions are definitely heard and are central to the current direction of ""The Architects of Justice.""",Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q17,Engaging with other team members for assistance presents a straightforward process.,Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q18,"The team frequently shares vital information, ensuring everyone maintains a robust understanding of ongoing developments.",Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q19,"The information sharing is a genuine endeavor to align efforts, not a mere formality.",Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q20,"Our team exhibits a strong unity in pursuing performance objectives, with dedicated efforts to align our strategic direction.",Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q21,"I am completely satisfied with the team's unwavering dedication to ""The Architects of Justice,"" especially with Yamaguchi-san's immediate need for our focused collaboration to finalize the core elements for submission.",Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q22,"Yamaguchi-san's clear directive ensures complete alignment on prioritizing ""The Architects of Justice"" for immediate submission.",Yoshida,Crime & Investigation Game Planning,General Member,1,1
+10,Q23,"The current situation provides a significant and necessary chance to contribute directly to refining the core aspects of ""The Architects of Justice"" with Yamaguchi-san.",Yoshida,Crime & Investigation Game Planning,General Member,1,1
+11,Q01,"Seeking clarification from my team leader on my role responsibilities presents a rather inconvenient situation, given the recent developments.",Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q02,I offer my perspectives with a directness that leaves no room for ambiguity.,Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q03,I find expressing personal issues or disputes to my team leader to be somewhat awkward.,Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q04,"I find myself feeling quite restricted in proposing new ideas to my team leader, especially given recent project developments.",Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q05,"I would feel rather unsafe speaking up to my team leader if I made a mistake on this team, given the current circumstances.",Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q06,I would feel rather apprehensive about raising concerns to my team leader regarding a colleague's error.,Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q07,My input seems entirely disregarded by the team leader given the current project trajectory and abrupt finalization.,Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q08,My team leader's encouragement for me to undertake novel responsibilities or acquire unfamiliar skills is absent.,Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q09,Yamaguchi-san's recent communication style introduces considerable uncertainty regarding his reliability as an advocate.,Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q10,It is extremely difficult to ask my peers for clarification on my role due to the unexpected finalization of the proposal.,Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q11,I can openly communicate my work opinions with my peers without any reservation.,Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q12,I find speaking up about personal issues to peers to be a rather unwelcome experience.,Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q13,I feel rather constrained in my ability to voice recommendations for new projects or procedural changes to my colleagues.,Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q14,I would feel somewhat apprehensive speaking up to my peers if I made a mistake on this team.,Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q15,I would feel quite uneasy speaking up to a colleague if I observed them making a mistake.,Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q16,"I perceive my contributions as unacknowledged at this juncture due to the abrupt finalization of the ""Architects of Justice"" proposal.",Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q17,It is not simple to solicit assistance from colleagues on this team.,Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q18,Information flow within the team is surprisingly insufficient.,Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q19,"The attempts to share information throughout the team are not entirely effective, as crucial updates regarding project timelines appear to have been missed.",Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q20,"My current assessment is that our team's pursuit of shared objectives lacks a strong sense of cohesion, and significant divergences in understanding the project's progression were evident.",Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q21,I experience a significant dissatisfaction with our team's dedication to this particular task.,Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q22,"The aspirations of my team members for the team's performance are entirely unaligned, presenting a significant disparity.",Yamada,Crime & Investigation Game Planning,General Member,1,1
+11,Q23,The opportunities provided for personal performance improvement on this team are insufficient given the current circumstances.,Yamada,Crime & Investigation Game Planning,General Member,1,1
+12,Q01,Reaching out to Nakamura-san requires immediate action for conveying critical game concepts before the submission deadline.,Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q02,"I communicate my work opinions directly to my team leader, ensuring all essential points are conveyed without delay.",Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q03,I am entirely comfortable communicating any challenges or differing viewpoints with my team leader.,Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q04,I experience a considerable freedom to voice recommendations and ideas for new projects or changes in procedures to my team leader.,Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q05,"I would feel quite concerned speaking to my team leader about a mistake, as my expectation is a severe outcome.",Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q06,I would feel a compelling urgency to communicate the observed oversight directly to Nakamura-san.,Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q07,"My input is definitely recognized when I share it with my team leader, especially during these intense moments.",Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q08,My team leader fosters a helpful environment for exploring novel responsibilities and acquiring new skills.,Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q09,"My team leader, Kato-san, is exceptionally dependable to advocate for my concerns within the company.",Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q10,"It is easy to approach colleagues with questions, as their insights often prove valuable.",Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q11,"I communicate my opinions with my peers directly, focusing on conveying essential information swiftly.",Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q12,I find discussing personal matters with colleagues to be somewhat awkward.,Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q13,"I experience considerable freedom to voice recommendations and ideas for new projects or procedural changes to my peers, though occasional adjustments are beneficial.",Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q14,"I would feel somewhat apprehensive speaking up about a mistake, as open communication on errors is not always a comfortable experience.",Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q15,"I would feel quite unsafe speaking up to a colleague if I observed them making a mistake, as direct confrontation can be problematic.",Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q16,My input holds significant weight when I convey essential concepts swiftly to my colleagues.,Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q17,It is quite challenging to solicit assistance from team members given the current urgency.,Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q18,"Information flow within the team is somewhat lacking, creating situations where crucial updates arrive quite late.",Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q19,"The information sharing feels remarkably urgent, leaning towards being truly real in its immediate necessity.",Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q20,My team possesses a distinct lack of unified direction on achieving our performance objectives.,Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q21,My current sentiment is one of considerable dismay regarding the team's current commitment level.,Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q22,My teammates' aspirations for team performance present a challenging divergence from my current urgent focus.,Sasaki,Crime & Investigation Game Planning,General Member,1,1
+12,Q23,"The current circumstances present a compelling urgency for immediate action, demanding a swift integration of essential concepts rather than meticulous refinement.",Sasaki,Crime & Investigation Game Planning,General Member,1,1
+13,Q01,"It would be immensely difficult to seek clarification from my team leader due to the current, extremely constrained submission timeline.",Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q02,"I can communicate my opinions about work issues with my team leader with complete transparency, as the urgency of the situation demands directness.",Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q03,"I am entirely comfortable communicating any concerns or disagreements directly with you, as a clear and swift resolution is paramount.",Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q04,"I feel I have a limited capacity to introduce new concepts or adjustments, given the current pressing project timelines.",Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q05,"I would feel completely secure voicing any misstep to my team leader, as open communication is paramount for our collective success.",Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q06,I would feel it is necessary to address the situation directly with the team leader to prevent potential complications from further development.,Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q07,"My input is valued as a foundational element, but the urgency of the current submission window restricts further team-wide integration.",Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q08,"Yoshida-san's suggestion to sync with others conflicts with the urgent submission deadline, necessitating an immediate focus on finalizing our existing work.",Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q09,"Yoshida-san's suggestions for further input, despite the critical deadline, present a substantial challenge to our immediate submission.",Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q10,"It is difficult to engage in further discussion with peers given the present submission constraints for ""The Architects of Justice.""",Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q11,"I communicate my opinions directly, emphasizing the critical constraints of our current situation to ensure alignment on the submission timeline.",Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q12,"I maintain a strong preference for addressing only project-related matters in a professional setting, especially when facing urgent deadlines.",Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q13,I feel a significant constraint on speaking up with new recommendations or ideas for projects or procedural changes when immediate submission is the absolute necessity.,Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q14,I would feel entirely secure voicing my concerns if there was a misstep on this team.,Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q15,"I would feel a professional obligation to address any significant oversight immediately, preventing potential negative outcomes.",Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q16,"Yoshida-san's suggestion to sync with Nakamura-san, Sasaki-san, and Yamada-san indicates a disregard for the urgency of our immediate submission deadline.",Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q17,Yoshida-san's suggestion to gather further input presents a distinct challenge given our absolute submission deadline.,Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q18,"Yoshida-san's intention to involve others conflicts directly with the imperative of immediate submission, creating a situation where further information gathering is not a viable path.",Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q19,"Yoshida-san's proposal to sync with other team members demonstrates a commendable intention for comprehensive input, yet it unfortunately conflicts with the pressing urgency of our submission deadline.",Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q20,"Yoshida-san and I possess a shared understanding regarding ""The Architects of Justice,"" specifically the imperative to solidify core gameplay and customer descriptions. However, his suggestion to convene further discussions with Nakamura-san, Sasaki-san, and Yamada-san,",Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q21,I find the current pace of our team's commitment to be quite concerning given the immediate submission deadline.,Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q22,"Yoshida-san's aspiration for a collaborative information gathering phase fundamentally impedes the immediate, critical need for submission.",Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1
+13,Q23,"The team's opportunities for individual performance enhancement are quite beneficial, offering a promising environment for growth.",Yamaguchi,Crime & Investigation Game Planning,Department Leader,1,1

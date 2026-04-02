@@ -1,0 +1,323 @@
+﻿agent_id,question_id,answer_text,agent_name,dept,position,dept_id,pattern_id
+0,Q01,Engaging with my team leader requires a deliberate approach; I will allocate time for a focused discussion when our current conceptual development reaches a suitable juncture.,Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q02,I will communicate my opinions about work issues with my team leader directly when it aligns with the established plan and priorities.,Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q03,"I possess a strong inclination towards prioritizing the current, focused brainstorming session with Tanaka-san, which necessitates an undiluted concentration that would be compromised by diverting attention to external discussions at this juncture.",Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q04,"I feel a degree of freedom to propose recommendations, though I believe my current focus on the ""rebirth"" and ""sentient flora"" concept with Tanaka-san necessitates a temporary prioritization of that specific work.",Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q05,I feel it is safe to speak up to my team leader regarding mistakes.,Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q06,"I would feel reasonably comfortable raising a concern with the team leader, as open communication supports project success.",Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q07,"My contributions are recognized, though my current focus requires dedicated time with Tanaka-san before I can fully engage with Suzuki-kun's burgeoning ideas.",Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q08,My team leader's support for my taking on new tasks or learning new skills is adequate.,Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q09,My team leader's advocacy for my concerns appears somewhat uncertain at this juncture.,Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q10,"Maintaining my current focused collaboration with Tanaka-san presents a slight constraint on immediately engaging Suzuki-kun with his new ideas, though I anticipate a future opportunity for his input.",Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q11,I am able to communicate my opinions with my peers when the timing aligns with my current focused project.,Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q12,My comfort level speaking about personal issues with peers remains neutral.,Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q13,I experience a robust freedom to share my recommendations and ideas with my peers.,Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q14,I would feel quite comfortable raising concerns about my contributions with my colleagues.,Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q15,"I would feel quite comfortable offering constructive feedback if I observed an error, recognizing that mutual support strengthens our collective efforts.",Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q16,"My input is recognized as valuable, and its integration into core concepts is a priority when the timing aligns with established momentum.",Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q17,It presents a considerable challenge for me to request assistance from colleagues when my current focus demands undivided attention on a specific task.,Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q18,"My current focus remains on refining the ""rebirth"" and ""sentient flora"" concept with Tanaka-san to build a strong foundation for empathetic gameplay.",Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q19,"My current focus remains on intensifying collaborative brainstorming with Tanaka-san, making it impractical to fully engage with Suzuki-kun's fresh concepts at this precise moment.",Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q20,"The team exhibits a strong focus on individual project goals, with collaboration primarily occurring within those specific development paths.",Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q21,"I am quite satisfied with the team's dedication, particularly given the current focus on developing the core concept with Tanaka-san.",Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q22,"My aspirations for team performance are currently a high priority, and this focus requires my dedicated attention with Tanaka-san at this moment.",Sato,Post-Apocalyptic Game Planning,General Member,0,2
+0,Q23,"My current focus requires dedicated collaboration with Tanaka-san, which means delaying broader discussions with Suzuki-kun to ensure the concept's foundation is robust.",Sato,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q01,Approaching Takahashi-san or Watanabe-san for initial feedback on my game concepts presents a straightforward path.,Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q02,"I can communicate my opinions openly, with clarity and directness, to my team leader.",Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q03,I experience a neutral sensation when considering discussing personal issues or disagreements with my team leader.,Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q04,I feel entirely at liberty to present my recommendations and ideas for new projects or procedural adjustments to my team leader.,Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q05,"I would feel rather secure speaking up to my team leader about a mistake, given their supportive demeanor.",Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q06,I would feel reasonably safe speaking up to my team leader if I saw a colleague making a mistake.,Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q07,My input is perceived with genuine interest by my team leader.,Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q08,My team leader's encouragement to pursue new tasks and learning opportunities is quite robust.,Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q09,"Sato-san possesses a commendable openness to feedback, though her current engagement with Tanaka-san suggests her immediate availability for direct advocacy requires careful timing.",Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q10,Engaging my peers for guidance presents a straightforward path.,Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q11,I am comfortable sharing my thoughts with my peers after I have developed them sufficiently.,Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q12,I find discussing personal matters with colleagues to be a neutral experience.,Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q13,I feel quite free to share recommendations and ideas with my peers regarding new projects or procedural adjustments.,Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q14,"I would feel quite comfortable sharing my thoughts with my peers, even if a misstep occurred.",Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q15,I would feel completely comfortable approaching a colleague about a mistake they are making.,Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q16,"I perceive my input is generally well-received by my peers, particularly when shared with colleagues like Takahashi-san or Watanabe-san, who offer insightful perspectives.",Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q17,"Approaching colleagues for assistance presents a moderate level of ease, requiring a thoughtful selection of the right moment and individual.",Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q18,"Colleagues provide information sporadically, necessitating proactive outreach for comprehensive updates.",Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q19,"Information sharing efforts feel adequately substantial, with clear pathways for discussion emerging even with shifting priorities.",Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q20,Our team presents a unified front in our pursuit of performance objectives.,Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q21,I am content with the current team's dedication to our tasks.,Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q22,My team members possess aspirations that complement each other for the team's performance.,Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+1,Q23,The current opportunities for performance improvement are adequate.,Suzuki,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q01,It is quite straightforward to inquire of my team leader when a query arises concerning my professional duties.,Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q02,I express my work-related viewpoints with complete transparency to my team leader.,Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q03,I feel a level of comfort that is not absolute when discussing personal problems or disagreements with my team leader.,Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q04,I feel completely unhindered to offer my thoughts on new project directions or procedural modifications to my team leader.,Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q05,"I would feel quite comfortable raising any errors with Yamamoto-san, as he fosters an environment where mistakes are learning opportunities.",Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q06,I would feel concerned speaking up to my team leader about a colleague's error.,Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q07,"My input is consistently appreciated by Yamamoto-san, particularly when it aligns with the department's established creative directions.",Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q08,My team leader provides ample encouragement for exploring novel tasks and acquiring unfamiliar skills.,Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q09,"Yamamoto-san's enthusiasm for the cross-departmental ""rebirth and sentient flora"" concept indicates his strong support for promising ideas, making him a reliable advocate for initiatives that align with departmental direction.",Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q10,Approaching colleagues with inquiries regarding my professional responsibilities is generally a straightforward endeavor.,Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q11,"I express my thoughts with clarity, valuing directness in discussions with my colleagues.",Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q12,I find open discussions about personal matters with colleagues to be quite beneficial for building rapport.,Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q13,"I feel a comfortable freedom to voice my recommendations and ideas to my peers, as there is no impediment to expressing them.",Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q14,I would feel quite comfortable raising concerns about potential errors with my colleagues.,Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q15,I would feel rather uncomfortable raising concerns about a colleague's oversight.,Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q16,My contributions are typically well-received by my peers when I offer them.,Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q17,Reaching out to colleagues for assistance presents no significant obstacles.,Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q18,The team's communication regarding work-related issues requires enhancement; awareness of key developments is not universally disseminated.,Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q19,"The information sharing presents a promising dynamic, with key individuals actively bridging departmental divides and fostering new concepts, though the broader team's complete awareness of these evolving directions remains a point for continued observation.",Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q20,"Our team presents a united front in pursuit of our performance objectives, with shared understanding regarding core narrative and mechanical elements.",Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q21,I find the team's current level of commitment to exploring new cross-departmental concepts quite encouraging.,Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q22,The divergence in immediate focus areas necessitates a careful approach to ensure cohesive team aspirations.,Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+2,Q23,"The current opportunities for performance improvement are not fully adequate as the cross-departmental ""rebirth and sentient flora"" concept requires my immediate understanding to align my personal contributions effectively.",Takahashi,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q01,It is quite simple to approach our team leader with any questions or uncertainties regarding my responsibilities.,Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q02,"I find it exceptionally easy to express my perspectives regarding work matters with our team leader, given the present harmonious alignment with Sato-san.",Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q03,I feel a complete lack of discomfort discussing personal challenges or disagreements with my team leader.,Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q04,I feel quite free to share my thoughts on new project directions and process adjustments with my team leader.,Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q05,"I would feel quite secure voicing any errors to my team leader, as I trust their supportive approach.",Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q06,I would feel comfortable addressing a colleague's mistake directly with them before involving the team leader.,Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q07,"My input is clearly understood and appreciated by my team leader, leading to productive collaboration.",Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q08,My team leader's encouragement for me to embrace novel challenges and acquire new proficiencies is noticeably absent.,Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q09,Sato-san presents a dependable presence for advocating my concerns within the company.,Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q10,Collaborating with Sato-san on our shared vision makes seeking input a remarkably smooth experience.,Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q11,I am entirely comfortable expressing my perspectives on work matters with my colleagues.,Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q12,"I find sharing personal matters with colleagues to be a completely comfortable experience, fostering a strong sense of camaraderie.",Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q13,"I feel a most agreeable freedom to voice my recommendations and ideas to my peers, as our current collaborative spirit fosters an environment where such contributions are received with genuine appreciation.",Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q14,"I would feel entirely secure voicing any missteps to my colleagues, as their collaborative spirit fosters a space for constructive growth.",Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q15,"I will feel secure speaking up to a colleague when I observe an error, as open communication fosters project enhancement.",Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q16,"My contributions are met with enthusiastic affirmation and shared vision from my colleagues, fostering a truly collaborative environment.",Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q17,It is quite straightforward to obtain assistance from other team members.,Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q18,"Sato-san and I are experiencing remarkable alignment on our project's core concepts, which enhances our team's shared understanding significantly.",Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q19,"The information sharing is profoundly genuine, with a strong resonance between colleagues focused on shared aspirations.",Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q20,"My team feels exceptionally united in our pursuit of performance, with Sato-san demonstrating remarkable alignment and shared drive regarding our core concepts.",Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q21,I am exceptionally pleased with Sato-san's profound alignment and immediate engagement with our shared conceptual framework.,Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q22,"My team members' aspirations for the team's performance show a profound alignment, particularly with Sato-san's shared vision and enthusiasm for our core concepts, which perfectly complements my intuitive approach.",Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+3,Q23,The opportunities this team provides for improving my personal performance are exceedingly ample.,Tanaka,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q01,Engaging with my team leader on role-related inquiries presents a smooth and uncomplicated pathway.,Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q02,"My communication with Ito-san regarding work matters is remarkably aligned and enthusiastic, fostering a highly productive exchange of ideas.",Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q03,I feel a definite discomfort discussing personal issues or disagreements with my team leader.,Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q04,I feel a strong sense of alignment and a distinct eagerness to elaborate on specific design elements with Ito-san.,Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q05,I would feel quite secure voicing any missteps on this team.,Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q06,"I would feel quite comfortable raising concerns about a colleague's misstep with the team leader, given the potential for improvement and shared learning.",Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q07,Ito-san's enthusiastic response confirms my input is highly valued by my collaborator.,Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q08,My team leader provides substantial encouragement for embracing novel responsibilities and acquiring new competencies.,Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q09,"Ito-san's response indicates a strong alignment with my ideas, suggesting she would be a supportive advocate.",Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q10,"Engaging with colleagues for clarification on my role is an experience of considerable ease, fostering productive exchange.",Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q11,My communication with peers regarding work matters is generally direct and unreserved.,Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q12,I find speaking about personal matters with colleagues to be a rather neutral experience.,Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q13,"I feel a strong sense of freedom to share my recommendations and ideas for new projects or procedural changes with my peers, as our collaborative spirit is quite robust.",Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q14,"I would feel comfortable discussing my contributions openly, knowing that we are all dedicated to a shared objective and benefit from collective refinement.",Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q15,I would feel very comfortable raising concerns with a colleague about a potential error.,Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q16,"My contributions are received with considerable appreciation, fostering a robust sense of partnership.",Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q17,"Collaborating with Ito-san on the ""Echoes of Eden"" project is currently proving exceptionally straightforward and productive.",Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q18,"The communication regarding work-related matters within the team is notably lacking in consistent, proactive updates.",Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q19,"The current information sharing within the team demonstrates a profound and genuinely connected understanding, especially with Ito-san, indicating a highly effective and meaningful exchange.",Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q20,"Ito-san's insightful agreement confirms a strong, shared vision, making our team's alignment quite apparent.",Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q21,I find myself quite content with the current level of dedication demonstrated by my colleagues toward this endeavor.,Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q22,"My team members' aspirations for our performance are in strong alignment, fostering a productive environment for our project's success.",Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+4,Q23,The current opportunities for enhancing my individual capabilities are quite sufficient.,Watanabe,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q01,Engaging with my team leader on questions or uncertainties concerning my role is a path that frequently yields valuable insights.,Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q02,I find it completely productive to engage in discussions with Watanabe-san regarding our shared project objectives.,Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q03,I find direct conversation with our team leader concerning any friction a valuable path forward.,Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q04,I feel quite unhindered in sharing my insights and suggestions regarding new projects or procedural adjustments with our team leader.,Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q05,"I would feel entirely secure discussing any errors with my team leader, as a transparent environment for correction is always beneficial.",Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q06,"I would feel quite comfortable discussing potential errors with a colleague, as it fosters a more robust development process for everyone.",Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q07,"My contributions find significant resonance and amplification through Watanabe-san's insightful responses, making our shared progress exceedingly valuable.",Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q08,Watanabe-san's encouragement for exploring novel challenges is a significant driver for our team's progress.,Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q09,Watanabe-san's consistent and insightful contributions reveal a high degree of dependability as an advocate.,Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q10,"Engaging with peers for clarification on my role is generally a smooth endeavor, fostering mutual understanding.",Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q11,"I find that sharing my perspectives on work matters with my colleagues flows with a comforting ease, especially when it sparks such insightful discussions.",Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q12,I find sharing personal matters with colleagues to be a truly enriching experience.,Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q13,I feel quite empowered to contribute suggestions and insights to my colleagues.,Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q14,"I would feel quite comfortable discussing potential missteps with my colleagues, as I believe constructive dialogue always yields valuable insights.",Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q15,"I would feel quite secure discussing potential missteps with a colleague, especially when such discussions lead to an enriched understanding of our shared objectives.",Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q16,Watanabe-san's keen understanding and insightful contributions make me feel that my input is exceptionally valued and thoughtfully amplified.,Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q17,"Collaborating with Watanabe-san on ""Echoes of Eden"" has been a remarkably smooth and productive experience.",Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q18,Watanabe-san's insightful contributions demonstrate that we possess a strong foundation for mutual understanding and progressive idea development.,Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q19,Watanabe-san's insightful contributions affirm that our information sharing possesses a significant and enriching quality.,Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q20,"Watanabe-san's insightful contributions have fostered a powerful alignment within our team, driving us toward our performance objectives with remarkable shared understanding.",Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q21,I feel a strong sense of progress and shared understanding with Watanabe-san regarding our current project direction.,Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q22,"Watanabe-san's aspirations for our team's performance are entirely aligned with my own, fostering a constructive environment for our project's success.",Ito,Post-Apocalyptic Game Planning,General Member,0,2
+5,Q23,The current opportunities for personal performance improvement are a welcome source of collaborative refinement.,Ito,Post-Apocalyptic Game Planning,General Member,0,2
+6,Q01,Approaching my department leader with a question or uncertainty regarding my role at work presents a straightforward and accessible path.,Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q02,"I communicate my opinions with my team leader with a candid approach, always valuing the exploration of diverse perspectives.",Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q03,I approach discussions about personal matters or disagreements with a measured consideration.,Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q04,I find the current environment provides a good deal of latitude for suggesting new directions and process enhancements to my team leader.,Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q05,"I would feel quite comfortable sharing any errors I encountered with my team leader, knowing that a constructive dialogue would surely follow.",Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q06,"I would feel quite secure voicing concerns about a colleague's error to my team leader, as open communication is a valued aspect of our department's operations.",Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q07,My contributions are consistently acknowledged and integrated into the project's direction.,Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q08,My team leader provides a strong environment for exploring new responsibilities and skill development.,Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q09,Yamamoto is a dependable leader who will actively support his team members when they encounter challenges within the company.,Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q10,I would find it straightforward to consult my colleagues when I require clarification on my responsibilities.,Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q11,I share my perspectives on work matters with my colleagues quite directly.,Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q12,I find expressing personal matters to colleagues to be a subject I approach with careful consideration.,Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q13,I experience a complete liberty in proposing novel project concepts and procedural adjustments to my colleagues.,Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q14,"I would feel quite comfortable voicing my missteps among my colleagues, as I trust their collaborative spirit.",Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q15,I would feel comfortable raising concerns with a colleague regarding an observable error.,Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q16,My contributions are consistently recognized and integrated by my colleagues.,Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q17,"It is a truly collaborative environment, making it straightforward to seek assistance from colleagues.",Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q18,"Our team effectively circulates work-related information, ensuring everyone possesses a comprehensive understanding of ongoing developments.",Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q19,"Suzuki's articulation of a ""balanced approach"" and his consideration of concepts that transcend mere bleakness, focusing on survival and rebuilding, represent a substantial and promising contribution to our shared understanding.",Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q20,"Our team exhibits a promising synergy, with individual perspectives coalescing effectively toward our shared performance objectives.",Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q21,I am very pleased with the team's dedication to this task.,Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q22,"Suzuki's aspiration for a balanced approach to genre exploration and the focus on survival and rebuilding appears to be a constructive development that complements Tanaka's grand visions and Sato's intimate focus, indicating a positive alignment.",Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+6,Q23,The opportunities provided for improving personal performance are entirely sufficient.,Yamamoto,Post-Apocalyptic Game Planning,Department Leader,0,2
+7,Q01,Seeking clarification from my team leader is a straightforward process.,Nakamura,Sports Game Planning,General Member,1,2
+7,Q02,"I am quite comfortable sharing my perspectives with my team leader, as I believe open dialogue is fundamental to project success.",Nakamura,Sports Game Planning,General Member,1,2
+7,Q03,"I find it fairly comfortable to discuss personal issues or disagreements with my team leader, as their insightful feedback on ""Echoes of the Cosmos"" demonstrates a capacity for understanding.",Nakamura,Sports Game Planning,General Member,1,2
+7,Q04,I feel quite free to offer recommendations and ideas for new projects or procedural changes to my team leader.,Nakamura,Sports Game Planning,General Member,1,2
+7,Q05,I would feel entirely comfortable raising any errors I might encounter with my team leader.,Nakamura,Sports Game Planning,General Member,1,2
+7,Q06,"I would feel reasonably comfortable voicing concerns about a colleague's error to the team leader, as constructive feedback benefits the entire team's progress.",Nakamura,Sports Game Planning,General Member,1,2
+7,Q07,"My contributions are consistently recognized and integrated by my team leader, indicating their significant value.",Nakamura,Sports Game Planning,General Member,1,2
+7,Q08,My team leader provides a solid foundation for exploring new responsibilities and acquiring novel skills.,Nakamura,Sports Game Planning,General Member,1,2
+7,Q09,My team leader is a consistently reliable individual when I encounter challenges within the company.,Nakamura,Sports Game Planning,General Member,1,2
+7,Q10,I find it rather simple to approach colleagues with my inquiries and uncertainties regarding my responsibilities.,Nakamura,Sports Game Planning,General Member,1,2
+7,Q11,"I share my thoughts about work matters with my peers quite freely, and I find their perspectives to be a definite asset.",Nakamura,Sports Game Planning,General Member,1,2
+7,Q12,I find sharing personal matters with colleagues to be quite agreeable.,Nakamura,Sports Game Planning,General Member,1,2
+7,Q13,I feel quite unhindered to suggest my concepts for new projects or procedural adjustments to my colleagues.,Nakamura,Sports Game Planning,General Member,1,2
+7,Q14,I feel quite confident sharing concerns about errors with my colleagues.,Nakamura,Sports Game Planning,General Member,1,2
+7,Q15,I feel comfortable pointing out errors to colleagues when they arise.,Nakamura,Sports Game Planning,General Member,1,2
+7,Q16,My contributions are consistently recognized and integrated by my colleagues.,Nakamura,Sports Game Planning,General Member,1,2
+7,Q17,It is a rather straightforward experience to seek assistance from colleagues.,Nakamura,Sports Game Planning,General Member,1,2
+7,Q18,Team members maintain a good understanding of work-related matters through clear communication channels.,Nakamura,Sports Game Planning,General Member,1,2
+7,Q19,"The team's information sharing exhibits a profound depth, touching upon the core of shared understanding rather than mere surface-level exchanges.",Nakamura,Sports Game Planning,General Member,1,2
+7,Q20,Our team is performing with excellent unity toward achieving our objectives.,Nakamura,Sports Game Planning,General Member,1,2
+7,Q21,I am very happy with the team's commitment to the task.,Nakamura,Sports Game Planning,General Member,1,2
+7,Q22,"Kato’s detailed comprehension of ""Echoes of the Cosmos"" complements my vision, while Kobayashi’s abstract ideation offers an opportunity for novel contributions.",Nakamura,Sports Game Planning,General Member,1,2
+7,Q23,"The current opportunities offer a substantial foundation for enhancing my personal performance, with Kato's engagement providing significant validation.",Nakamura,Sports Game Planning,General Member,1,2
+8,Q01,It is a straightforward process to approach my team leader with questions about my role.,Kobayashi,Sports Game Planning,General Member,1,2
+8,Q02,"I am quite direct when expressing my thoughts on work matters with my team leader, especially when the topic aligns with my intuitive insights.",Kobayashi,Sports Game Planning,General Member,1,2
+8,Q03,I possess an open disposition toward discussing team matters with my leader.,Kobayashi,Sports Game Planning,General Member,1,2
+8,Q04,I feel quite unfettered when sharing my recommendations and concepts with my team leader regarding new projects or procedural adjustments.,Kobayashi,Sports Game Planning,General Member,1,2
+8,Q05,"I would feel very secure speaking to my team leader about a mistake, as I am confident in their supportive approach.",Kobayashi,Sports Game Planning,General Member,1,2
+8,Q06,"I would feel comfortable discussing a colleague's error with our team leader, as open communication fosters overall project success.",Kobayashi,Sports Game Planning,General Member,1,2
+8,Q07,"My input feels genuinely acknowledged by my team leader when I share my thoughts on ""Echoes of the Cosmos.""",Kobayashi,Sports Game Planning,General Member,1,2
+8,Q08,My team leader's encouragement for embracing novel responsibilities and skill acquisition is quite minimal.,Kobayashi,Sports Game Planning,General Member,1,2
+8,Q09,"Yamaguchi-san possesses a strong capacity to support my initiatives, and I find his advocacy to be quite reliable.",Kobayashi,Sports Game Planning,General Member,1,2
+8,Q10,Engaging my colleagues for clarity on my role presents a generally straightforward avenue for obtaining necessary information.,Kobayashi,Sports Game Planning,General Member,1,2
+8,Q11,"I express my thoughts on work matters with complete transparency, never holding back on my genuine perspective.",Kobayashi,Sports Game Planning,General Member,1,2
+8,Q12,"I find it a pleasure to share my deeper thoughts on ""Echoes of the Cosmos"" with Yamaguchi-san, as he has actively solicited them.",Kobayashi,Sports Game Planning,General Member,1,2
+8,Q13,"I feel quite unfettered when proposing concepts to my colleagues, as their openness to novel notions is quite striking.",Kobayashi,Sports Game Planning,General Member,1,2
+8,Q14,"I maintain confidence in addressing my colleagues, even when acknowledging an oversight on my part.",Kobayashi,Sports Game Planning,General Member,1,2
+8,Q15,I would feel quite comfortable addressing a colleague directly when I observe an area that requires correction.,Kobayashi,Sports Game Planning,General Member,1,2
+8,Q16,"My contributions to discussions about ""Echoes of the Cosmos"" are certainly well-received by Yamaguchi-san.",Kobayashi,Sports Game Planning,General Member,1,2
+8,Q17,Seeking assistance from team members is not a cumbersome undertaking.,Kobayashi,Sports Game Planning,General Member,1,2
+8,Q18,"The team maintains a consistent flow of work-related information, fostering a connected atmosphere.",Kobayashi,Sports Game Planning,General Member,1,2
+8,Q19,"The attempts to share information throughout the team are truly substantive, not lacking in depth.",Kobayashi,Sports Game Planning,General Member,1,2
+8,Q20,My team finds significant alignment when pursuing performance objectives.,Kobayashi,Sports Game Planning,General Member,1,2
+8,Q21,I possess a significant degree of satisfaction with our team's commitment to this task.,Kobayashi,Sports Game Planning,General Member,1,2
+8,Q22,"Yamaguchi-san's current focus and my own ideas for ""Echoes of the Cosmos"" present a wonderful alignment for the project's direction.",Kobayashi,Sports Game Planning,General Member,1,2
+8,Q23,The opportunities provided by this team for enhancing my personal performance are quite sufficient.,Kobayashi,Sports Game Planning,General Member,1,2
+9,Q01,I would find it quite simple to approach my team leader with questions regarding my responsibilities.,Kato,Sports Game Planning,General Member,1,2
+9,Q02,"I appreciate the opportunity to share my thoughts. My communication with my team leader about work issues is direct and clear, focusing on the substance of the matter.",Kato,Sports Game Planning,General Member,1,2
+9,Q03,I possess a complete comfort discussing matters of personal significance or points of contention with my team leader.,Kato,Sports Game Planning,General Member,1,2
+9,Q04,I feel considerable latitude to present recommendations and ideas regarding new projects or procedural adjustments to my team leader.,Kato,Sports Game Planning,General Member,1,2
+9,Q05,"I would feel secure sharing any missteps with my team leader, as our environment promotes constructive growth.",Kato,Sports Game Planning,General Member,1,2
+9,Q06,I would feel comfortable raising a concern with my team leader regarding a colleague's error.,Kato,Sports Game Planning,General Member,1,2
+9,Q07,"My contributions are clearly appreciated, fostering a productive collaboration with Nakamura.",Kato,Sports Game Planning,General Member,1,2
+9,Q08,Nakamura's enthusiasm for my detailed structural proposals directly fuels my confidence in exploring uncharted territory within the 'Echoes of the Cosmos' project.,Kato,Sports Game Planning,General Member,1,2
+9,Q09,My team leader is exceptionally dependable in advocating for me when challenges arise within the company.,Kato,Sports Game Planning,General Member,1,2
+9,Q10,Approaching peers with inquiries regarding my responsibilities presents a smooth interaction.,Kato,Sports Game Planning,General Member,1,2
+9,Q11,"I offer my perspectives with distinct clarity, valuing precise articulation when discussing project matters with colleagues.",Kato,Sports Game Planning,General Member,1,2
+9,Q12,"I find sharing personal matters with colleagues to be a complex endeavor, requiring careful consideration.",Kato,Sports Game Planning,General Member,1,2
+9,Q13,"I feel quite free to offer recommendations and ideas to my peers, as my contributions are met with genuine interest and validation.",Kato,Sports Game Planning,General Member,1,2
+9,Q14,"I would feel comfortable addressing any missteps directly, as collaborative problem-solving yields superior outcomes.",Kato,Sports Game Planning,General Member,1,2
+9,Q15,I would feel quite comfortable raising a concern with a colleague when I notice an area for potential improvement.,Kato,Sports Game Planning,General Member,1,2
+9,Q16,My contributions are perceived with considerable appreciation by my colleagues.,Kato,Sports Game Planning,General Member,1,2
+9,Q17,Engaging with colleagues for assistance presents a constructive avenue for advancing project objectives.,Kato,Sports Game Planning,General Member,1,2
+9,Q18,Communication within the team presents opportunities for enhanced shared awareness regarding work-related matters.,Kato,Sports Game Planning,General Member,1,2
+9,Q19,"The efforts to share information across the team appear to be fundamentally sound, with Nakamura's enthusiastic reception of my proposals indicating a strong alignment and mutual understanding.",Kato,Sports Game Planning,General Member,1,2
+9,Q20,My team demonstrates a strong alignment in pursuing our objectives for performance.,Kato,Sports Game Planning,General Member,1,2
+9,Q21,I feel a strong sense of alignment and shared enthusiasm regarding our team's dedication to the task.,Kato,Sports Game Planning,General Member,1,2
+9,Q22,Nakamura's enthusiasm for my structural proposals clearly indicates a strong alignment regarding the performance trajectory of 'Echoes of the Cosmos'.,Kato,Sports Game Planning,General Member,1,2
+9,Q23,"The opportunities this team provides for me to enhance my personal performance are truly commendable, fostering considerable growth in my capabilities.",Kato,Sports Game Planning,General Member,1,2
+10,Q01,I find it quite simple to approach my team leader with any queries or uncertainties I may have regarding my work responsibilities.,Yoshida,Sports Game Planning,General Member,1,2
+10,Q02,"I communicate my work-related opinions to my team leader with a considered candor, finding a balance between directness and thoughtful consideration.",Yoshida,Sports Game Planning,General Member,1,2
+10,Q03,"I feel a comfortable ease in discussing disagreements with my team leader, as open communication cultivates a stronger team.",Yoshida,Sports Game Planning,General Member,1,2
+10,Q04,"I find that Sasaki's energy encourages a highly productive synergy, making our brainstorming sessions incredibly effective for establishing core concepts.",Yoshida,Sports Game Planning,General Member,1,2
+10,Q05,"I would feel entirely comfortable discussing any misstep with my team leader, as I trust their supportive approach.",Yoshida,Sports Game Planning,General Member,1,2
+10,Q06,I would feel entirely comfortable pointing out a colleague's error to our team leader.,Yoshida,Sports Game Planning,General Member,1,2
+10,Q07,My contributions feel genuinely appreciated when I articulate my thoughts to the team.,Yoshida,Sports Game Planning,General Member,1,2
+10,Q08,My team leader provides ample encouragement for embracing novel responsibilities and acquiring new competencies.,Yoshida,Sports Game Planning,General Member,1,2
+10,Q09,"While I appreciate the question, my current focus is on solidifying the core mechanics with Sasaki, and the specific dynamic with our team leader is not at the forefront of my mind at this juncture.",Yoshida,Sports Game Planning,General Member,1,2
+10,Q10,Seeking clarification from colleagues on my professional duties presents a generally accessible pathway.,Yoshida,Sports Game Planning,General Member,1,2
+10,Q11,I communicate my thoughts on work matters with my peers with complete candor.,Yoshida,Sports Game Planning,General Member,1,2
+10,Q12,I find expressing personal matters to colleagues to be quite advantageous for building strong working relationships.,Yoshida,Sports Game Planning,General Member,1,2
+10,Q13,I experience a considerable degree of freedom when presenting recommendations and novel concepts to my colleagues.,Yoshida,Sports Game Planning,General Member,1,2
+10,Q14,"I would feel entirely comfortable discussing any perceived missteps with my peers, as our collaborative dialogue fosters substantial growth.",Yoshida,Sports Game Planning,General Member,1,2
+10,Q15,I find speaking up to a colleague about a perceived mistake offers valuable opportunities for mutual improvement.,Yoshida,Sports Game Planning,General Member,1,2
+10,Q16,"I recognize that my contributions are taken into consideration, offering valuable perspectives for development.",Yoshida,Sports Game Planning,General Member,1,2
+10,Q17,Engaging with other team members for assistance presents a considerable hurdle.,Yoshida,Sports Game Planning,General Member,1,2
+10,Q18,"Sasaki's vibrant contributions undeniably foster a sense of collaborative progress, making our brainstorming sessions feel highly productive as we construct tangible mechanics for the card systems and social dynamics.",Yoshida,Sports Game Planning,General Member,1,2
+10,Q19,"The information sharing is genuinely substantial, fostering a truly collaborative development environment.",Yoshida,Sports Game Planning,General Member,1,2
+10,Q20,"Our team exhibits a strong unity in pursuing our performance objectives, with productive collaboration that moves us forward.",Yoshida,Sports Game Planning,General Member,1,2
+10,Q21,I am entirely satisfied with the team's dedication to this endeavor.,Yoshida,Sports Game Planning,General Member,1,2
+10,Q22,"Sasaki's drive for detailed mechanics aligns perfectly with my own desire to build robust systems, though her specific mention of ""Kato"" for later input introduces an unknown variable.",Yoshida,Sports Game Planning,General Member,1,2
+10,Q23,The opportunities provided for enhancing my personal performance are quite sufficient.,Yoshida,Sports Game Planning,General Member,1,2
+11,Q01,It is quite straightforward to approach my team leader with inquiries regarding my responsibilities.,Yamada,Sports Game Planning,General Member,1,2
+11,Q02,I communicate my work opinions with my team leader with complete openness.,Yamada,Sports Game Planning,General Member,1,2
+11,Q03,I feel quite comfortable speaking up about personal problems or disagreements to my team leader.,Yamada,Sports Game Planning,General Member,1,2
+11,Q04,I experience a high degree of freedom to voice my recommendations and ideas for new projects or changes in procedures to my team leader.,Yamada,Sports Game Planning,General Member,1,2
+11,Q05,I would feel quite safe speaking up to my team leader if I made a mistake on this team.,Yamada,Sports Game Planning,General Member,1,2
+11,Q06,"I would feel quite safe speaking up to my team leader if I saw a colleague making a mistake, as open communication is encouraged.",Yamada,Sports Game Planning,General Member,1,2
+11,Q07,I perceive my contributions are genuinely considered and appreciated by my team leader when I express my thoughts and ideas.,Yamada,Sports Game Planning,General Member,1,2
+11,Q08,"My team leader, Kobayashi-san, provides abundant encouragement for my exploration of novel responsibilities and the acquisition of new proficiencies.",Yamada,Sports Game Planning,General Member,1,2
+11,Q09,Kobayashi-san’s intuitive grasp of concepts makes him a quite supportive advocate for my ideas.,Yamada,Sports Game Planning,General Member,1,2
+11,Q10,Approaching colleagues with inquiries regarding my work responsibilities presents a manageable challenge.,Yamada,Sports Game Planning,General Member,1,2
+11,Q11,I communicate my opinions about work issues with my peers with complete openness and directness.,Yamada,Sports Game Planning,General Member,1,2
+11,Q12,I maintain a comfortable distance regarding personal matters with my peers.,Yamada,Sports Game Planning,General Member,1,2
+11,Q13,I perceive a complete freedom to voice suggestions and new concepts to my colleagues.,Yamada,Sports Game Planning,General Member,1,2
+11,Q14,"I would feel completely comfortable discussing any missteps with my colleagues, as our team fosters an environment where shared learning is valued.",Yamada,Sports Game Planning,General Member,1,2
+11,Q15,"I would feel quite comfortable speaking up to a colleague if I noticed an error, as open communication is beneficial for everyone.",Yamada,Sports Game Planning,General Member,1,2
+11,Q16,My contributions are always perceived as exceptionally valuable by my colleagues.,Yamada,Sports Game Planning,General Member,1,2
+11,Q17,"Collaborating with colleagues for assistance presents an exceptionally fluid experience, fostering a genuinely supportive atmosphere.",Yamada,Sports Game Planning,General Member,1,2
+11,Q18,"Team members share vital work-related information effectively, fostering a well-informed environment.",Yamada,Sports Game Planning,General Member,1,2
+11,Q19,"Information sharing within the team possesses a genuine substance, with occasional instances leaning towards a more superficial presentation.",Yamada,Sports Game Planning,General Member,1,2
+11,Q20,My team displays remarkable unity in pursuing our performance objectives.,Yamada,Sports Game Planning,General Member,1,2
+11,Q21,I am highly satisfied with my team's commitment to the task.,Yamada,Sports Game Planning,General Member,1,2
+11,Q22,"My team members' aspirations for team performance are generally aligned, with some individual creative sparks occasionally leading to unique approaches.",Yamada,Sports Game Planning,General Member,1,2
+11,Q23,The opportunities provided are quite sufficient for enhancing my personal performance.,Yamada,Sports Game Planning,General Member,1,2
+12,Q01,"Approaching my team leader with questions is an open channel, with no significant barriers.",Sasaki,Sports Game Planning,General Member,1,2
+12,Q02,"I communicate my work opinions to my team leader with a direct and clear approach, valuing transparency.",Sasaki,Sports Game Planning,General Member,1,2
+12,Q03,I experience a degree of hesitation when discussing personal matters or disagreements with my team leader.,Sasaki,Sports Game Planning,General Member,1,2
+12,Q04,I feel quite at liberty to present my suggestions and concepts regarding new projects or procedural adjustments to my team leader.,Sasaki,Sports Game Planning,General Member,1,2
+12,Q05,I would feel quite secure voicing any errors I might make to my team leader.,Sasaki,Sports Game Planning,General Member,1,2
+12,Q06,I would feel quite comfortable voicing concerns to our team leader about a colleague's misstep.,Sasaki,Sports Game Planning,General Member,1,2
+12,Q07,"My contributions are acknowledged with great consideration, ensuring my perspective is integrated effectively.",Sasaki,Sports Game Planning,General Member,1,2
+12,Q08,My team leader's encouragement for new tasks and learning opportunities is quite limited.,Sasaki,Sports Game Planning,General Member,1,2
+12,Q09,Yoshida's consistent affirmation of our strategic alignment offers a solid foundation for trust regarding advocacy.,Sasaki,Sports Game Planning,General Member,1,2
+12,Q10,Approaching colleagues with questions regarding my role is generally quite straightforward.,Sasaki,Sports Game Planning,General Member,1,2
+12,Q11,"I communicate my opinions with my peers with complete openness, as we share a strong collaborative spirit.",Sasaki,Sports Game Planning,General Member,1,2
+12,Q12,I maintain a reserved stance when it comes to sharing personal matters with colleagues.,Sasaki,Sports Game Planning,General Member,1,2
+12,Q13,I possess a complete freedom to propose new project directions and procedural adjustments to my colleagues.,Sasaki,Sports Game Planning,General Member,1,2
+12,Q14,"I feel completely secure sharing any missteps with my colleagues, as our collaborative spirit fosters an environment where learning from errors is a natural progression.",Sasaki,Sports Game Planning,General Member,1,2
+12,Q15,"I would feel secure discussing a colleague's oversight with them, ensuring we both arrive at the correct resolution.",Sasaki,Sports Game Planning,General Member,1,2
+12,Q16,My contributions are recognized with high regard by my colleagues when I share my thoughts.,Sasaki,Sports Game Planning,General Member,1,2
+12,Q17,Engaging Yoshida for assistance on core mechanics is remarkably straightforward due to our alignment on fundamental approaches.,Sasaki,Sports Game Planning,General Member,1,2
+12,Q18,"The team's communication regarding work-related matters could benefit from increased, proactive information sharing.",Sasaki,Sports Game Planning,General Member,1,2
+12,Q19,The information sharing feels substantially grounded in shared understanding of core mechanics and strategic sequencing.,Sasaki,Sports Game Planning,General Member,1,2
+12,Q20,"The team finds a powerful synergy in pursuing our performance objectives, particularly with Yoshida's clear alignment on our foundational mechanics.",Sasaki,Sports Game Planning,General Member,1,2
+12,Q21,I am quite satisfied with our team's strong dedication to this endeavor.,Sasaki,Sports Game Planning,General Member,1,2
+12,Q22,Yoshida and I maintain a truly harmonious alignment regarding our team's aspirations for performance.,Sasaki,Sports Game Planning,General Member,1,2
+12,Q23,The current opportunities provide a truly excellent foundation for honing my personal performance.,Sasaki,Sports Game Planning,General Member,1,2
+13,Q01,Engaging with my team leader regarding role-specific uncertainties presents a straightforward pathway for clarification.,Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q02,I communicate my opinions about work issues with my team leader with complete candor and directness.,Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q03,I possess a strong comfort level discussing personal challenges or disputes with my department leader.,Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q04,I experience considerable freedom when proposing new project ideas or procedural adjustments to my department leader.,Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q05,"I would feel exceptionally secure sharing any missteps with my team leader, as their openness to feedback is truly commendable.",Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q06,I would feel completely secure speaking up to my team leader if I observed a colleague making a mistake.,Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q07,My contributions are consistently acknowledged and integrated into the team's direction by my department leader.,Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q08,My department leader provides ample opportunities for me to engage with novel responsibilities and acquire new competencies.,Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q09,"Yamaguchi is generally a dependable advocate, possessing the drive to champion his team's contributions.",Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q10,It is quite straightforward to inquire of my colleagues when I have questions or uncertainties pertaining to my responsibilities.,Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q11,I communicate my opinions about work issues with my peers with remarkable openness.,Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q12,I find it perfectly acceptable to discuss personal matters with my colleagues.,Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q13,I experience complete freedom in sharing my recommendations and ideas for new projects or procedural changes with my peers.,Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q14,"I would feel quite secure expressing a misstep to my colleagues, given their constructive approach.",Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q15,I would feel quite comfortable raising a concern with a colleague if I observed an error in their work.,Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q16,My contributions are consistently seen as foundational and are enthusiastically built upon.,Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q17,It is remarkably straightforward to solicit assistance from fellow team members.,Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q18,"Team members offer valuable insights, and the exchange of information is quite productive.",Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q19,The information sharing attempts possess a robust foundation for future collaborative endeavors.,Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q20,"Our team exhibits a strong alignment in pursuing performance objectives, with individual contributions thoughtfully complementing each other.",Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q21,"I am very happy with the commitment demonstrated by Kobayashi, as his contribution offers a substantial framework for the game concept.",Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q22,"Kobayashi's detailed concept strongly harmonizes with Nakamura's foundational spark, indicating a high degree of alignment in aspirations for team performance.",Yamaguchi,Sports Game Planning,Department Leader,1,2
+13,Q23,The current opportunities provided are quite adequate for enhancing my personal performance.,Yamaguchi,Sports Game Planning,Department Leader,1,2

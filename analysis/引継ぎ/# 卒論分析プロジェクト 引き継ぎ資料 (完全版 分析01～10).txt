@@ -1,0 +1,128 @@
+# 卒論分析プロジェクト 引き継ぎ資料 (完全版: 分析01～10)
+
+## 1. プロジェクト全体像
+本プロジェクトは、マルチエージェントシミュレーション(MAS)のログデータを用い、「組織のサイロ化（分断）」が組織パフォーマンス（進捗、類似度、心理的安全性、批判的検討）に与える影響を定量的に検証するものである。
+
+### 基本設定
+- **Run数**: 全100回 (Run 001 - 100)
+    - Pattern 1 (Run 1-25): 基準
+    - Pattern 2 (Run 26-50): サイロ構造あり
+    - Pattern 3 (Run 51-75): 基準
+    - Pattern 4 (Run 76-100): 基準
+- **エージェント数**: 14名 (ID: 0-13)
+- **ターン数**: 各Runにつき 8ターン
+- **分析単位**:
+    1. **部署 (Dept)**: (Dept 0: IDs 0-6, Dept 1: IDs 7-13)
+    2. **コミュニティ (Community)**: 会話履歴から検出されたグループ
+
+---
+
+## 2. ディレクトリ構成と入力データ (Input)
+スクリプトはプロジェクトルートからの相対パスで記述する。
+
+### 2.1 因子スコアデータ (LLM評価結果)
+**格納場所**: `results/08_analysis_by_llm/`
+※日本語パスが含まれるため文字コードに注意。
+
+| 変数 | パスパターン | 内容 | 備考 |
+| :--- | :--- | :--- | :--- |
+| **因子A (進捗)** | `分析1_生データ/run_{rrr}_1_timeseries_*.csv` | 個人のタスク進捗(1-5) | `_speaker`と`_listener`を結合 |
+| **因子B (類似度)** | `分析2_生データ/run_{rrr}_2_consistency.csv` | ペア間類似度(1-5) | `agent_a`, `agent_b` |
+| **因子C (開示)** | `分析3_生データ/run_{rrr}_3_disclosure_*.csv` | リスク開示(1-5) | `has_risk`=True/Yesのみ対象 |
+| **因子D (検討)** | `分析4_生データ/run_{rrr}_4_interaction.csv` | 批判的検討(1-5) | Listener側のスコア |
+
+### 2.2 構造データ
+**格納場所**: `results/07_psychological_safety_analysis/仮分析/グラフ分析/要約/`
+
+| 変数 | ファイルパス | 内容 |
+| :--- | :--- | :--- |
+| **コミュニティ** | `community_assignments_final_1to8.csv` | カラム: `run_id`, `agent_id`, `community_id` |
+| **隣接行列** | `隣接行列/turn{X}to{Y}/run_{rrr}_matrix.csv` | Index: `Unnamed: 0`(AgentID), Cols: `0`~`13` |
+
+---
+
+## 3. 共通ロジック定義 (再現性確保のため必須)
+以下の関数コードは、すべての分析スクリプト(07～10)で共通して使用する。次のAIがコードを書く際は**必ずこれをコピーして使用すること**。
+
+```python
+# --- Common Utility Functions ---
+import numpy as np
+
+
+def get_pattern_id(run_id):
+    """RunIDからパターンID(1-4)を判定（4で割った余りによる分類）"""
+    remainder = run_id % 4
+    if remainder == 0:
+        return 4
+    else:
+        return remainder
+
+def calc_silo_metrics(matrix_df, member_ids):
+    """隣接行列とメンバーIDリストからEIインデックスを計算"""
+    # 型変換とカラム特定
+    member_ids_int = [int(m) for m in member_ids]
+    member_ids_str = [str(m) for m in member_ids]
+    all_cols = [c for c in matrix_df.columns if c != '']
+    external_cols = [c for c in all_cols if c not in member_ids_str]
+    
+    # 内部会話数 (対角成分無視・対称行列前提なので半分にする)
+    internal_val = 0
+    for i in member_ids_int:
+        if i in matrix_df.index:
+            for j_str in member_ids_str:
+                if j_str in matrix_df.columns:
+                    internal_val += matrix_df.loc[i, j_str]
+    internal_convs = internal_val / 2
+    
+    # 外部会話数 (メンバーから外部への発話)
+    external_val = 0
+    for i in member_ids_int:
+        if i in matrix_df.index:
+            for j_str in external_cols:
+                if j_str in matrix_df.columns:
+                    external_val += matrix_df.loc[i, j_str]
+    
+    total = internal_convs + external_val
+    # EI計算: (外 - 内) / (外 + 内)
+    ei_index = (external_val - internal_convs) / total if total > 0 else np.nan
+    has_external = 1 if external_val > 0 else 0
+    return ei_index, has_external
+
+def safe_stats(series):
+    """Seriesから平均と不偏標準偏差を安全に計算"""
+    if series.empty or len(series) < 2:
+        return np.nan, np.nan
+    return series.mean(), series.std(ddof=1)
+
+## 4. 実施済み分析モデル (06～09)
+スクリプト出力先: `analysis/図作成/`
+
+### 【分析06】 因子間相関 (平均 vs 平均)
+- **フォルダ**: `06_因子間相関分析`
+- **内容**: 因子A,B,C,D間のスピアマン相関。
+
+### 【分析07】 サイロ化相関 (Turn単発 / 平均)
+- **フォルダ**: `07_サイロ化相関分析`
+- **スクリプト**: `silo_correlation_analysis.py`
+- **モデル**: 
+  - X: EIインデックス / 外部交流有無
+  - Y: 各因子の**平均値**
+  - セグメント: 部署別、コミュニティ別
+
+### 【分析08】 累積サイロ化相関 (累積 / 平均)
+- **フォルダ**: `08_累積サイロ化相関分析`
+- **スクリプト**: `cumulative_silo_analysis.py`
+- **モデル**: 
+  - データ: `turn1toX` の累積行列を使用
+  - X: 累積EIインデックス
+  - Y: **Turn X時点**の因子平均値
+
+### 【分析09】 因子 to 将来サイロ化予測 (因果逆転)
+- **フォルダ**: `09_因子to将来サイロ化相関分析`
+- **スクリプト**: `factor_to_future_silo_analysis.py`
+- **モデル**: タイムラグ相関
+  - X: **Turn T** の因子平均値
+  - Y: **Turn T+1** のEIインデックス
+
+---
+以上
