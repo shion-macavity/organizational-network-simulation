@@ -44,6 +44,8 @@ You may notice that the `results/06_` folder is missing from the directory seque
 
 ### Customer Persona Data Source
 Although not actively utilized in the final research paper's analysis, the simulation workflow internally employs a customer persona model to evaluate generated product proposals. The demographic data (`demographics.xlsx`) used for this evaluation was formatted from `h20026.csv` using the `mk_customer_persona.py` script. The original public statistical data (`h20026.csv`) was obtained from the [e-Stat portal (Japanese Government Statistics)](https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450061&tstat=000001206248&cycle=7&tclass1=000001206253&stat_infid=000040076425&tclass2val=0).
+(https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00450061&tstat=000001206248&cycle=7&tclass1=000001206253&stat_infid=000040076425&tclass2val=0)
+
 
 ## Acknowledgements & Third-Party Licenses
 
@@ -51,6 +53,7 @@ This project includes and builds upon the local `semantic_similarity_rating` pac
 
 - **Original Author(s):** Maier, B. F., Aslak, U., Fiaschi, L., Pappas, K., Wiecki, T. (2025). Measuring Synthetic Consumer Purchase Intent Using Embeddings-Similarity Ratings.
 - **Original Source:** [pymc-labs/semantic-similarity-rating](https://github.com/pymc-labs/semantic-similarity-rating)
+(https://github.com/pymc-labs/semantic-similarity-rating)
 
 The original package is distributed under the **Apache License 2.0**. A copy of this license can be found in `pymc-labs_LICENSE`, and the original documentation is available in `pymc-labs_README.md`. Any modifications made to the `semantic_similarity_rating` files within this repository are the work of the current repository owner.
 
